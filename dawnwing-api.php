@@ -6,11 +6,11 @@
  * @package			  Byron Jacobs
  *
  * @wordpress-plugin
- * Plugin Name:		  Dawnwing Waybill API
+ * Plugin Name:		  WooCommerce Dawnwing Waybill API Integration
  * Plugin URI:		  https://www.byronjacobs.co.za/
- * Description:		  Byron Jacobs Core Integrations
+ * Description:		  This plugin allows you to integrate your WooCommerce store with Dawnwing and automatically generate and send waybills to the courier when an order is marked as shipped. Contact me if you need it to be customised to a higher complexity. hello@byronjacobs.co.za
  * Version:			  1.0.0
- * Author:			  Byron Jacobs
+ * Author:			  Byron Jacobs - hello@byronjacobs.co.za
  * Author URI:		  https://www.byronjacobs.co.za/
  * License:			  GPL-2.0+
  * License URI:		  http://www.gnu.org/licenses/gpl-2.0.txt
